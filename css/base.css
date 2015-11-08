@@ -1,0 +1,25 @@
+#whole_page{
+	
+}
+ul#menu_items {
+    padding: 0;
+    background-color: black;
+    padding: 10px 20px;    
+    width: 600px;
+}
+
+
+ul#menu_items li {
+    display: inline;
+    padding: 10px;
+}
+
+a{
+	font-weight: bold;	
+}
+
+ul#menu_items li a {
+    color: white;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
