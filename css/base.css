@@ -12,3 +12,11 @@ h1,.cbp-contentslider h3,.cbp-contentslider p{
     margin-top: 20px;
     word-spacing: 5px;
 }
+
+#donors dd{
+    margin-left: 290px;
+}
+
+#donors dt{
+    width: 260px;
+}
