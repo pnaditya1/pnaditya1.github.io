@@ -91,9 +91,11 @@ body {
 }
 
 #home:target ~ #header #navigation #link-home,
+#photos:target ~ #header #navigation #link-photos,
 #donors:target ~ #header #navigation #link-donors,
 #events:target ~ #header #navigation #link-events,
 #trust_members:target ~ #header #navigation #link-trust_members,
+
 #contact:target ~ #header #navigation #link-contact_us{
 	background: #000;
 	color: #fff;
